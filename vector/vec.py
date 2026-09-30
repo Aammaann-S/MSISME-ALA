@@ -146,6 +146,25 @@ class Vec:
             return False
         return self.elements == other.elements
 
+    # Assignment 1 
+    def mean(self) -> float:
+        """Return the mean of the vector values."""
+        if len(self.elements) == 0:
+            # raise RuntimeError("Cannot compute mean of empty vector.")
+            raise ValueError("Cannot compute mean of empty vector.")
+        return sum(self.elements) / len(self.elements)
+
+    def demean(self) -> Self:
+        """ Return De-mean vector of the given vector."""
+        # De-mean = resulting vector of mean subtracted from every entry of the vector.
+        mean_value = self.mean()
+        return Vec([x - mean_value for x in self.elements])
+
+    def std(self) -> float:
+        """Return the Standard Deviation of the vector entries."""
+        demeaned = self.demean()
+        squared_sum = sum(x ** 2 for x in demeaned.elements)
+        return math.sqrt(squared_sum / len(self.elements))
 
 """
 (1) Understand the basic design of the vector abstraction. Review the implementation.
