@@ -171,4 +171,17 @@ Both implementations match: False
 Maximum absolute difference: 2.980232238769531e-07
 =========================================
 
+========== PART H: TOP 8 TAGS ==========
+Rank    Tag                   Score          Best Matching Word
+-----------------------------------------------------------------
+1       research              1.000000       research
+2       university            1.000000       university
+3       collaboration         1.000000       collaboration
+4       medicine              1.000000       medicine
+5       education             1.000000       education
+6       curriculum            0.840056       teaching
+7       students              0.830565       teaching
+8       faculty               0.827109       academic
+=================================================================
+
 '''
