@@ -1,0 +1,66 @@
+ASSIGNMENT 2 – SOURCE REFERENCES
+Topic: Semantic Tagging with GloVe and NumPy
+Platform: LinkedIn
+Institution: Manipal School of Information Sciences
+
+------------------------------------------------------------
+SOURCE 1
+------------------------------------------------------------
+
+Post Title:
+MAHE Shines in Times Higher Education World University Rankings 2027
+
+Publisher:
+Manipal Academy of Higher Education
+
+Platform:
+LinkedIn
+
+Original Post URL:
+https://www.linkedin.com/posts/manipalacademyofhighereducation_mahe-theworlduniversityrankings-therankings2027-activity-7511294924164616192-_rMt
+
+Content Used:
+MAHE's performance in the Times Higher Education World University Rankings 2027, including its global ranking band, Indian ranking, and improvements across teaching, research, international outlook and industry indicators.
+
+------------------------------------------------------------
+SOURCE 2
+------------------------------------------------------------
+
+Post Topic:
+MAHE Nature Conference – Meeting the Challenge of Infectious Diseases in a Changing World
+
+Publisher:
+Manipal Academy of Higher Education
+
+Platform:
+LinkedIn
+
+Original Post URL:
+https://www.linkedin.com/posts/manipalacademyofhighereducation_mahe-mahenatureconference-springernatureindia-ugcPost-7516076658915713024-JHeg
+
+Content Used:
+The MAHE Nature Conference, its participating organisations and international attendees, and its focus on infectious diseases, antimicrobial resistance, pandemic preparedness, disease surveillance, diagnostics, therapeutics, vaccination strategies and One Health.
+
+------------------------------------------------------------
+SOURCE 3
+------------------------------------------------------------
+
+Post Topic:
+MAHE in QS World University Rankings: Asia 2027
+
+Publisher:
+Manipal School of Information Sciences (MSIS Manipal)
+
+Platform:
+LinkedIn
+
+Original Post URL:
+https://www.linkedin.com/posts/msismanipal_mahe-manipalacademyofhighereducation-qsasiarankings-activity-7523964185156775936-pn7_
+
+Content Used:
+MAHE's QS Asia 2027 ranking, improvement in position, overall score, national ranking and continued focus on academic excellence, research and global engagement.
+
+------------------------------------------------------------
+
+Note:
+The text excerpts in input.txt were collected from the original LinkedIn posts listed above. The URLs are provided for source verification and attribution.
