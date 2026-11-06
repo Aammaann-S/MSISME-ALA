@@ -1,0 +1,10 @@
+Review the PDF attached with this message.
+ 
+(1) Review section 2 - Hyperparameter values of GPT-2 small.
+(2) Implement Algorithm 1, "Token embedding" (section 6).
+(3) Implement Algorithm 6, "layer_norm" (section 6).
+(4) Implement Algorithm 4, "ATTENTION" (section 7).
+(5) Implement Algorithm 5, "MHATTENTION" (section 7)
+ 
+Implement all functions using numpy. 
+DeepMind's article titled "Formal Algorithms for Transformers" is the main reference. 
